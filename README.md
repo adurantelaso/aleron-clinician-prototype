@@ -1,6 +1,6 @@
 # Aleron MD · Clinician workspace (prototype)
 
-A clickable prototype of the Aleron MD reviewing-clinician workspace, set up as the Notes and Orders demo: one patient, Ethan Park, and the journey of creating and finalizing a new note.
+A clickable prototype of the Aleron MD reviewing-clinician workspace, set up as the Notes and Orders demo for one patient, Ethan Park. It opens on Journey 1, creating and finalizing a new note; add `?journey=2` to the address for Journey 2, creating and authorizing a new order.
 
 **Live:** https://adurantelaso.github.io/aleron-clinician-prototype/
 
